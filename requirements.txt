@@ -1,0 +1,11 @@
+# version (including 3.13/3.14) instead of compiling from source.
+streamlit>=1.37
+pandas>=2.2
+plotly>=5.22
+SQLAlchemy>=2.0
+streamlit-option-menu>=0.3.13
+python-dotenv>=1.0
+openai>=1.40
+google-generativeai>=0.7
+openpyxl>=3.1
+reportlab>=4.2

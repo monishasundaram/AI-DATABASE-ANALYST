@@ -1,0 +1,7 @@
+TABLE customers (id INTEGER, name TEXT, country TEXT)
+TABLE order_items (id INTEGER, order_id INTEGER, product_id INTEGER, quantity INTEGER)
+    FK order_items.product_id -> products.id
+    FK order_items.order_id -> orders.id
+TABLE orders (id INTEGER, customer_id INTEGER, order_date TEXT)
+    FK orders.customer_id -> customers.id
+TABLE products (id INTEGER, name TEXT, price REAL)
