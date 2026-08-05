@@ -129,6 +129,3 @@ AI-Database-Analyst/
 - Natural-language chart configuration ("make this a stacked bar by month").
 
 ---
-
-Built as a portfolio / final-year-project-grade reference implementation. The offline
-engine means it always runs; add an API key to unlock full AI capability.
