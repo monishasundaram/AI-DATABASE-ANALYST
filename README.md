@@ -8,7 +8,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-2563EB?style=flat-square&logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Read--only-2563EB?style=flat-square&logo=sqlite&logoColor=white)
 ![Works offline](https://img.shields.io/badge/Works-Offline-2563EB?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-2563EB?style=flat-square)
 
 </div>
 
@@ -30,7 +29,6 @@
 - [Troubleshooting](#troubleshooting)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
